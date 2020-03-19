@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 namespace Weapon_Decorator {
     class Program {
         static void Main(string[] args) {
+
+
+
+            Console.ReadLine();
         }
     }
 }
